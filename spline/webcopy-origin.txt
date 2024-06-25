@@ -1,0 +1,20 @@
+Uri: https://app.spline.design/_assets/_icons/icon_favicon16x16.png
+File Name: D:\MyWebsite\Cyotek WebCopy\homepage1\my.spline.design\_assets\_icons\icon_favicon16x16.png
+Content Type: image/png
+
+Uri: https://app.spline.design/_assets/_icons/icon_favicon32x32.png
+File Name: D:\MyWebsite\Cyotek WebCopy\homepage1\my.spline.design\_assets\_icons\icon_favicon32x32.png
+Content Type: image/png
+
+Uri: https://my.spline.design/astarlikeourown-d7ed18f973c9469f512d8f93d90c1672/
+File Name: D:\MyWebsite\Cyotek WebCopy\homepage1\my.spline.design\astarlikeourown-d7ed18f973c9469f512d8f93d90c1672\index.htm
+Content Type: text/html
+
+Uri: https://my.spline.design/astarlikeourown-d7ed18f973c9469f512d8f93d90c1672/scene.splinecode
+File Name: D:\MyWebsite\Cyotek WebCopy\homepage1\my.spline.design\astarlikeourown-d7ed18f973c9469f512d8f93d90c1672\scene.splinecode
+Content Type: application/json
+
+Uri: https://unpkg.com/@splinetool/runtime@1.7.7/build/runtime.js
+File Name: D:\MyWebsite\Cyotek WebCopy\homepage1\my.spline.design\@splinetool\runtime@1.7.7\build\runtime.js
+Content Type: application/javascript
+
